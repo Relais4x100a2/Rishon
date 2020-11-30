@@ -3,17 +3,20 @@ Rishon : exploitation tous azimuts de la base SIRENE
 
 ## APERO.PY
 
-Petit outil CLI pour dénicher des des petits-producteurs de victuailles pour apératifs & co (bière et fromage mais possible avec d'autres en précisant le code NAF). 
+Petit outil CLI pour dénicher des des petits-producteurs de victuailles pour apératifs & co.
 Affiche le numéro de SIRET, l'enseigne, l'adresse et la date de création de l'entreprise.
 Les ETI et GRANDES ENTREPRISES ont été exclues des résultats. Des améliorations sont à venir.
 
-3 commandes possibles :
-     
+4 commandes possibles :
+
 - biere
 
 - fromage
 
-- code_NAF : Autres productions en tapant le code NAF - voir liste de l'INSEE : https://entreprise.data.gouv.fr/api-doc/codes_naf
+- code_NAF : Autres productions en tapant le code NAF
+voir liste de l'INSEE : https://entreprise.data.gouv.fr/api-doc/codes_naf
+
+- recherche plein texte
 
 2 options possibles (cumulables) pour chaque commande:
 
@@ -21,7 +24,7 @@ Les ETI et GRANDES ENTREPRISES ont été exclues des résultats. Des améliorati
 
 - impression dans un fichier csv en indiquant nom_du_fichier.csv : -imp nom_du_fichier.csv
 
-     **Version 2020-12-29 - Relais4x100a2**
+     **Dolorean:2012-12-20 - Relais4x100a2**
 
 ### Installation
 
