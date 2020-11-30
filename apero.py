@@ -17,7 +17,8 @@ def uneCommandePlusOuMoinsVide():
 
      -fromage
 
-     - code_NAF : Autres productions en tapant le code NAF - voir liste de l'INSEE : https://entreprise.data.gouv.fr/api-doc/codes_naf
+     - code_NAF : Autres productions en tapant le code NAF
+     voir liste de l'INSEE : https://entreprise.data.gouv.fr/api-doc/codes_naf
 
      2 options possibles (cumulables) pour chaque commande:
 
